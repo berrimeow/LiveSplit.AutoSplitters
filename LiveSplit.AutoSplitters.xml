@@ -27723,4 +27723,15 @@
         <Description>by Juggie</Description>
         <Website>https://github.com/matejos/AutoSplitters/tree/main/Ghostory</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Plants vs. Zombies Replanted</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/berrimeow/PvZ-Replanted-autosplit/refs/heads/main/v1.4</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal for Plants vs. Zombies Replanted</Description>
+        <Website>https://discord.gg/ss5uTqE</Website>
+    </AutoSplitter>
 </AutoSplitters>
